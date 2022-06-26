@@ -1,0 +1,31 @@
+###################
+# backup files
+###################
+oel-usb-3-hub-backups/
+*.bak
+*-bak
+*.bck
+$*
+*.swp
+*.000
+*~
+
+################
+# Output files
+################
+*.o
+*.a
+*.bin
+*.d
+*.elf
+*.hex
+*.list
+*.srec
+*.map
+*.macros_expanded
+
+####################
+# R temporary files
+####################
+.RData
+.Rhistory
